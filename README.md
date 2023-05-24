@@ -30,7 +30,7 @@ Estudante de desenvolvimento de sistemas e fascinado por **CiberseguranÃ§a** ðŸ’
 <a href="https://github.com/Almelo134">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Almelo134&layout=compact&langs_count=7&theme=radical"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Almelo134&show_icons=true&theme=radical&include_all_commits=true&count_private=false"/>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Almelo134)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Almelo134)
 </div>
   
 ![snake gif](https://github.com/Almelo134/Almelo134/blob/output/github-contribution-grid-snake.svg)
