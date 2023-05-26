@@ -29,8 +29,8 @@ Estudante de desenvolvimento de sistemas e fascinado por **CiberseguranÃ§a** ğŸ’
 <h3>Status:</h3>
 <a href="https://github.com/Almelo134">
 
-<img height="180em" src='https://github-readme-stats.vercel.app/api?username=Almelo134&show_icons=true&layout=compact&theme=radical&'/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Almelo134&langs_count=7&theme=radical"/>
+<img height="180em" src='https://github-readme-stats.vercel.app/api?username=Almelo134&show_icons=true&theme=radical&'/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Almelo134&layout=extended&langs_count=7&theme=radical"/>
 
 </div>
   
