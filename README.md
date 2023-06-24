@@ -3,8 +3,7 @@
 Estudante de desenvolvimento de sistemas e fascinado por **Cibersegurança** 💻
 
 - 🕹 Apaixonado por jogos
-- 🎸 Violonista/Guitarrista
-- 🖥 Futuro Dev
+- 🖥 Dev
 - ⚙ Conhecimentos em: 
 <div style="display: inline">
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
