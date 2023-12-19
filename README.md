@@ -32,4 +32,4 @@ Estudante de desenvolvimento de sistemas e fascinado por **CiberseguranÃ§a** ðŸ’
 
 </div>
 
-![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Almelo134/Almelo134/blob/output/github-contribution-grid-snake.svg)
